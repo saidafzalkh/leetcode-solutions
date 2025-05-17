@@ -8,4 +8,4 @@ Solutions are added over time and may be written in different programming langua
 
 This is a learning log, not a showcase — clarity and understanding come first.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Saddy_h?ext=heatmap&theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Saddy_h?ext=heatmap&theme=catppuccinMocha)
